@@ -1,6 +1,10 @@
 
 # What is your name?
 
+my_name<- Oluseyi
+ 
+my_bd <- 09/27
+
 
 # When is your birthdate? Only Month and day. 
 # Format "Month/date". For example for date "January 9th", we write "01/09"
