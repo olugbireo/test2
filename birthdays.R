@@ -4,7 +4,7 @@
 
 # When is your birthdate? Only Month and day. 
 # Format "Month/date". For example for date "January 9th", we write "01/09"
-my_name <- "cynthia"
+my_name <- "cyn"
 my_bd <- "10/17"
 
 
